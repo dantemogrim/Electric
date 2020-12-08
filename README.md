@@ -12,13 +12,13 @@ The release of this fictitious vehicle was based off of a famous, French automot
 
 
 ## Coding languages
-
 - CSS
 - HTML
 - JavaScript
 
 
 ## Instructions
+If you want to see the result try [this link](https://thelightcycle.netlify.app/), otherwise you can do the following:
 
 1. Clone or fork this repository to your computer.
 2. Open up your terminal and cd into the project folder.
