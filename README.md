@@ -30,7 +30,7 @@ If you want to see the result try [this link](https://thelightcycle.netlify.app/
 
 <i>Web Development:</i>
 
-- [Dante Mogrim](https://github.com/mogrim-91)
+- [Dante Mogrim](https://github.com/dantemogrim)
 - [Jon McGarvie](https://github.com/trilisen)
 - [Rikard Segerkvist](https://github.com/rikardseg/)
 
